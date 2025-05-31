@@ -84725,7 +84725,7 @@ if(l==null){s=1
 break}m.an(new A.ahm(m))
 p=4
 s=7
-return A.P(A.aPP(A.ht("http://localhost:3000/products/"+A.l(l))),$async$x9)
+return A.P(A.aPP(A.ht("https://mydigitalproject-production.up.railway.app/products/"+A.l(l))),$async$x9)
 case 7:k=c
 if(k.b===200)m.an(new A.ahn(m,k))
 else m.an(new A.aho(m))
@@ -84831,7 +84831,7 @@ return new A.Dt(new A.lk(B.cY,s),new A.lk(B.cY,s))}}
 A.Dt.prototype={
 wR(){var s=0,r=A.J(t.H),q,p=this,o,n,m,l,k,j,i
 var $async$wR=A.K(function(a,b){if(a===1)return A.G(b,r)
-while(true)switch(s){case 0:l=A.ht("http://localhost:3000/api/auth/login")
+while(true)switch(s){case 0:l=A.ht("https://mydigitalproject-production.up.railway.app/api/auth/login")
 k=t.N
 j=A.am(["Content-Type","application/json"],k,k)
 s=3
@@ -84879,7 +84879,7 @@ return new A.E2(new A.lk(B.cY,s),new A.lk(B.cY,s),new A.lk(B.cY,s),new A.lk(B.cY
 A.E2.prototype={
 xh(){var s=0,r=A.J(t.H),q=this,p,o,n,m
 var $async$xh=A.K(function(a,b){if(a===1)return A.G(b,r)
-while(true)switch(s){case 0:p=A.ht("http://localhost:3000/api/auth/signup")
+while(true)switch(s){case 0:p=A.ht("https://mydigitalproject-production.up.railway.app/api/auth/signup")
 o=t.N
 n=A.am(["Content-Type","application/json"],o,o)
 s=2
