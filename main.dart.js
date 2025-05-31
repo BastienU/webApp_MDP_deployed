@@ -41174,7 +41174,7 @@ qD(a,b){return B.e}}
 A.Wi.prototype={}
 A.I9.prototype={
 L(a){var s=null,r=A.by(a,B.aO,t.w).w.r.b+8,q=this.c.X(0,new A.j(8,r)),p=A.cx(this.d,B.M,B.x,B.ce),o=$.aa().ai8(20,20,s),n=B.Dd.cC(a),m=new A.bm(B.Dh.cC(a),1,B.E,-1)
-return new A.bF(new A.an(8,r,8,8),new A.kt(new A.Ix(q),A.cW(s,A.aFg(A.Ik(new A.bF(B.Eu,p,s),new A.cV(n,s,new A.dr(m,m,m,m),B.lv,s,s,B.an),B.de),o),B.J,s,B.AM,s,s,s,222),s),s)}}
+return new A.bF(new A.an(8,r,8,8),new A.kt(new A.Ix(q),A.cW(s,A.aFg(A.Ik(new A.bF(B.Eu,p,s),new A.cV(n,s,new A.dr(m,m,m,m),B.lv,s,s,B.an),B.de),o),B.J,s,B.AN,s,s,s,222),s),s)}}
 A.ow.prototype={
 ap(){return new A.CA()}}
 A.CA.prototype={
@@ -84725,7 +84725,7 @@ if(l==null){s=1
 break}m.an(new A.ahm(m))
 p=4
 s=7
-return A.P(A.aPP(A.ht("https://mydigitalproject-production.up.railway.app/products/"+A.l(l))),$async$x9)
+return A.P(A.aPP(A.ht("http://localhost:3000/products/"+A.l(l))),$async$x9)
 case 7:k=c
 if(k.b===200)m.an(new A.ahn(m,k))
 else m.an(new A.aho(m))
@@ -84801,8 +84801,8 @@ return A.cW(s,A.cx(A.b([B.Ua,B.cW,A.e2(A.jm(A.li(B.K,A.b([A.axv(q,new A.a41(r),3
 a2F(){var s=null,r=A.b([u.X,"\u201cEnfin une app qui comprend mes go\xfbts.\u201d\n Sam","\u201cSimple, rapide, efficace.\u201d\n Clara"],t.s)
 return A.cW(s,A.cx(A.b([B.Ux,B.bX,A.e2(A.axv(A.axs(0.85),new A.a40(r),3),220,s)],t.p),B.M,B.x,B.C),B.r,B.l,s,s,s,B.mO,s)}}
 A.a45.prototype={
-$2(a,b){var s=null,r="CaviarDreams",q="assets/images/main.png",p="assets/images/promo.png",o="Suivez vos marques pr\xe9f\xe9r\xe9es et restez au courant des derni\xe8res tendances mode.",n="Scannez, taguez et organisez vos v\xeatements, cr\xe9ez vos tenues, pr\xe9parez vos achats et construisez votre style de mani\xe8re simple et intuitive.",m="Explorer les tendances",l="assets/images/inspiration1.png",k="assets/images/inspiration3.png",j=this.a,i=t.p
-return b.b<800?A.MO(A.cx(A.b([new A.bF(B.El,A.cx(A.b([A.c7("Oh My Tag !",s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,50,s,s,B.aH,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cV,A.c7("Votre application shopping et dressing\nintelligent",s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cV,A.c7("Donnez une suite \xe0 vos envies !",s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cW,A.c7("Explorez vos marques pr\xe9f\xe9r\xe9es, organisez vos\nv\xeatements\net retrouvez vos coups de coeur.",s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.bX,A.e2(A.li(B.c5,A.b([A.ty(s,A.cW(s,s,B.r,s,new A.cV(B.aY,s,s,A.en(20),s,s,B.an),170,s,s,600),s,s,200,s,0,s),A.cW(s,s,B.r,s,new A.cV(s,A.arw(new A.jh(q,s,s)),s,A.en(20),s,s,B.an),s,s,s,s)],i),B.J,B.bY),170,s)],i),B.a7,B.x,B.C),s),B.cW,A.cW(s,A.cx(A.b([B.Um,B.bh,B.Uj,B.bX,new A.da(B.i7,s,s,A.cW(s,A.iB(p,B.bo,s,s),B.r,s,new A.cV(s,s,s,B.Ay,s,s,B.an),s,s,s,1/0),s),B.cW,new A.da(B.ct,s,s,A.c7("Promotions en temps r\xe9el",s,s,s,A.dO(s,s,B.k,s,s,s,s,s,r,s,s,20,s,s,B.aH,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),B.ck,new A.da(B.ct,s,s,A.c7(u._,s,s,s,A.dO(s,s,B.k,s,s,s,s,s,r,s,s,15,s,s,s,s,1.4,!0,s,s,s,s,s,s,s,s),s,s),s)],i),B.a7,B.x,B.C),B.r,B.l,s,s,s,B.Eo,s),B.yK,new A.bF(B.mN,A.cx(A.b([B.U9,B.bh,A.c7(o,s,s,s,B.z8,s,s),B.bh,A.c7(n,s,s,s,B.z8,s,s),B.bh,j.NP(B.aY,m,B.k),B.bX,A.ey(A.b([A.ee(A.cW(s,A.NT(4.7124,A.iB(l,B.bo,s,s)),B.r,s,s,180,s,s,s),1),B.kr,A.ee(A.cW(s,A.NT(1.5708,A.iB(l,B.bo,s,s)),B.r,s,s,180,s,s,s),1)],i),B.M,B.x,B.C)],i),B.M,B.x,B.C),s),B.bX,j.a2F()],i),B.M,B.x,B.C)):A.MO(A.cx(A.b([new A.bF(B.Ek,A.ey(A.b([A.ee(A.cx(B.GQ,B.a7,B.x,B.C),3),B.kr,A.ee(A.li(B.c5,A.b([A.ty(s,A.cW(s,s,B.r,s,new A.cV(B.aY,s,s,A.en(20),s,s,B.an),210,s,s,600),s,s,500,s,0,s),A.cW(s,s,B.r,s,new A.cV(s,A.arw(new A.jh(q,s,s)),s,A.en(20),s,s,B.an),220,s,s,1000)],i),B.J,B.bY),4)],i),B.M,B.x,B.C),s),B.OE,A.cW(s,A.cx(A.b([B.Uy,B.ck,B.Ue,B.cW,A.ey(A.b([A.ee(A.cx(B.H1,B.a7,B.x,B.C),3),B.kr,A.ee(A.cW(s,s,B.r,s,new A.cV(s,A.arw(new A.jh(p,s,s)),s,A.en(40),s,s,B.an),300,s,s,600),4)],i),B.a7,B.x,B.C)],i),B.M,B.cd,B.C),B.r,B.l,s,s,s,B.iX,s),A.cW(B.d7,A.ey(A.b([A.ee(A.cx(A.b([A.iB(l,B.bo,s,s),B.bh,A.iB("assets/images/inspiration2.png",B.bo,s,s)],i),B.a7,B.x,B.ce),1),B.eQ,A.ee(A.cx(A.b([A.iB(k,B.bo,s,s),B.cV,A.iB("assets/images/inspiration4.png",B.bo,s,s),B.cV,A.NT(3.1416,A.iB(k,B.bo,s,s))],i),B.a7,B.x,B.ce),1),B.eQ,A.ee(A.cW(B.K,A.cx(A.b([A.c7("Trouvez l'inspiration",s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,50,s,s,B.aH,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cW,A.c7(o,s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.bh,A.c7(n,s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.yK,new A.da(B.ct,s,s,j.NP(B.aY,m,B.k),s)],i),B.M,B.cd,B.C),B.r,s,s,s,s,B.E8,s),2)],i),B.M,B.x,B.C),B.r,s,s,s,s,B.Ej,s),j.a2P()],i),B.a7,B.x,B.C))},
+$2(a,b){var s=null,r="CaviarDreams",q="images/main.png",p="images/promo.png",o="Suivez vos marques pr\xe9f\xe9r\xe9es et restez au courant des derni\xe8res tendances mode.",n="Scannez, taguez et organisez vos v\xeatements, cr\xe9ez vos tenues, pr\xe9parez vos achats et construisez votre style de mani\xe8re simple et intuitive.",m="Explorer les tendances",l="images/inspiration1.png",k="images/inspiration3.png",j=this.a,i=t.p
+return b.b<800?A.MO(A.cx(A.b([new A.bF(B.El,A.cx(A.b([A.c7("Oh My Tag !",s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,50,s,s,B.aH,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cV,A.c7("Votre application shopping et dressing\nintelligent",s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cV,A.c7("Donnez une suite \xe0 vos envies !",s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cW,A.c7("Explorez vos marques pr\xe9f\xe9r\xe9es, organisez vos\nv\xeatements\net retrouvez vos coups de coeur.",s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.bX,A.e2(A.li(B.c5,A.b([A.ty(s,A.cW(s,s,B.r,s,new A.cV(B.aY,s,s,A.en(20),s,s,B.an),170,s,s,600),s,s,200,s,0,s),A.cW(s,s,B.r,s,new A.cV(s,A.arw(new A.jh(q,s,s)),s,A.en(20),s,s,B.an),s,s,s,s)],i),B.J,B.bY),170,s)],i),B.a7,B.x,B.C),s),B.cW,A.cW(s,A.cx(A.b([B.Um,B.bh,B.Uj,B.bX,new A.da(B.i7,s,s,A.cW(s,A.iB(p,B.bo,s,s),B.r,s,new A.cV(s,s,s,B.Ay,s,s,B.an),s,s,s,1/0),s),B.cW,new A.da(B.ct,s,s,A.c7("Promotions en temps r\xe9el",s,s,s,A.dO(s,s,B.k,s,s,s,s,s,r,s,s,20,s,s,B.aH,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),B.ck,new A.da(B.ct,s,s,A.c7(u._,s,s,s,A.dO(s,s,B.k,s,s,s,s,s,r,s,s,15,s,s,s,s,1.4,!0,s,s,s,s,s,s,s,s),s,s),s)],i),B.a7,B.x,B.C),B.r,B.l,s,s,s,B.Eo,s),B.yK,new A.bF(B.mN,A.cx(A.b([B.U9,B.bh,A.c7(o,s,s,s,B.z8,s,s),B.bh,A.c7(n,s,s,s,B.z8,s,s),B.bh,j.NP(B.aY,m,B.k),B.bX,A.ey(A.b([A.ee(A.cW(s,A.NT(4.7124,A.iB(l,B.bo,s,s)),B.r,s,s,180,s,s,s),1),B.kr,A.ee(A.cW(s,A.NT(1.5708,A.iB(l,B.bo,s,s)),B.r,s,s,180,s,s,s),1)],i),B.M,B.x,B.C)],i),B.M,B.x,B.C),s),B.bX,j.a2F()],i),B.M,B.x,B.C)):A.MO(A.cx(A.b([new A.bF(B.Ek,A.ey(A.b([A.ee(A.cx(B.GQ,B.a7,B.x,B.C),3),B.kr,A.ee(A.li(B.c5,A.b([A.ty(s,A.cW(s,s,B.r,s,new A.cV(B.aY,s,s,A.en(20),s,s,B.an),210,s,s,600),s,s,500,s,0,s),A.cW(s,s,B.r,s,new A.cV(s,A.arw(new A.jh(q,s,s)),s,A.en(20),s,s,B.an),220,s,s,1000)],i),B.J,B.bY),4)],i),B.M,B.x,B.C),s),B.OE,A.cW(s,A.cx(A.b([B.Uy,B.ck,B.Ue,B.cW,A.ey(A.b([A.ee(A.cx(B.H1,B.a7,B.x,B.C),3),B.kr,A.ee(A.cW(s,s,B.r,s,new A.cV(s,A.arw(new A.jh(p,s,s)),s,A.en(40),s,s,B.an),300,s,s,600),4)],i),B.a7,B.x,B.C)],i),B.M,B.cd,B.C),B.r,B.l,s,s,s,B.iX,s),A.cW(B.d7,A.ey(A.b([A.ee(A.cx(A.b([A.iB(l,B.bo,s,s),B.bh,A.iB("images/inspiration2.png",B.bo,s,s)],i),B.a7,B.x,B.ce),1),B.eQ,A.ee(A.cx(A.b([A.iB(k,B.bo,s,s),B.cV,A.iB("images/inspiration4.png",B.bo,s,s),B.cV,A.NT(3.1416,A.iB(k,B.bo,s,s))],i),B.a7,B.x,B.ce),1),B.eQ,A.ee(A.cW(B.K,A.cx(A.b([A.c7("Trouvez l'inspiration",s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,50,s,s,B.aH,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cW,A.c7(o,s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.bh,A.c7(n,s,s,s,A.dO(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.yK,new A.da(B.ct,s,s,j.NP(B.aY,m,B.k),s)],i),B.M,B.cd,B.C),B.r,s,s,s,s,B.E8,s),2)],i),B.M,B.x,B.C),B.r,s,s,s,s,B.Ej,s),j.a2P()],i),B.a7,B.x,B.C))},
 $S:532}
 A.a44.prototype={
 $0(){},
@@ -84831,7 +84831,7 @@ return new A.Dt(new A.lk(B.cY,s),new A.lk(B.cY,s))}}
 A.Dt.prototype={
 wR(){var s=0,r=A.J(t.H),q,p=this,o,n,m,l,k,j,i
 var $async$wR=A.K(function(a,b){if(a===1)return A.G(b,r)
-while(true)switch(s){case 0:l=A.ht("https://mydigitalproject-production.up.railway.app/api/auth/login")
+while(true)switch(s){case 0:l=A.ht("http://localhost:3000/api/auth/login")
 k=t.N
 j=A.am(["Content-Type","application/json"],k,k)
 s=3
@@ -84879,7 +84879,7 @@ return new A.E2(new A.lk(B.cY,s),new A.lk(B.cY,s),new A.lk(B.cY,s),new A.lk(B.cY
 A.E2.prototype={
 xh(){var s=0,r=A.J(t.H),q=this,p,o,n,m
 var $async$xh=A.K(function(a,b){if(a===1)return A.G(b,r)
-while(true)switch(s){case 0:p=A.ht("https://mydigitalproject-production.up.railway.app/api/auth/signup")
+while(true)switch(s){case 0:p=A.ht("http://localhost:3000/api/auth/signup")
 o=t.N
 n=A.am(["Content-Type","application/json"],o,o)
 s=2
@@ -84921,10 +84921,10 @@ A.amf.prototype={
 $0(){this.a.d=this.b},
 $S:0}
 A.xl.prototype={
-L(a){var s,r=this,q=null,p="assets/images/logo_ohmytag.png",o="S'inscrire",n="Se connecter"
+L(a){var s,r=this,q=null,p="images/logo_ohmytag.png",o="S'inscrire",n="Se connecter"
 if(A.by(a,q,t.w).w.a.a<800)return A.arb(!1,B.k,4,B.iv,A.ey(A.b([A.a4p(q,q,B.Ff,q,q,new A.a_A(a),q,q,q),A.iB(p,q,q,150),B.OW,r.wj(B.l,12,B.nj,o,new A.a_B(a),B.iW,B.k),B.OD,r.wj(B.aY,12,B.nl,n,new A.a_C(a),B.iW,B.k)],t.p),B.M,B.x,B.C),70)
 s=t.p
-return A.cW(q,A.ey(A.b([A.iB(p,q,q,200),A.ey(A.b([r.x7(a,"Accueil"),r.x7(a,"Scan"),r.x7(a,"Wishlist"),r.x7(a,"Contact")],s),B.M,B.cd,B.C),A.ey(A.b([r.a47(B.l,B.nj,o,new A.a_D(a),B.k),B.kp,r.wj(B.aY,12,B.nl,n,new A.a_E(a),B.iW,B.k)],s),B.M,B.x,B.C)],s),B.M,B.jC,B.C),B.r,q,B.AK,70,q,B.mN,q)},
+return A.cW(q,A.ey(A.b([A.iB(p,q,q,200),A.ey(A.b([r.x7(a,"Accueil"),r.x7(a,"Scan"),r.x7(a,"Wishlist"),r.x7(a,"Contact")],s),B.M,B.cd,B.C),A.ey(A.b([r.a47(B.l,B.nj,o,new A.a_D(a),B.k),B.kp,r.wj(B.aY,12,B.nl,n,new A.a_E(a),B.iW,B.k)],s),B.M,B.x,B.C)],s),B.M,B.jC,B.C),B.r,q,B.AL,70,q,B.mN,q)},
 agJ(a){var s=this,r=null
 return A.aw5(A.tV(!0,A.ax_(A.b([new A.da(B.ct,r,r,A.a4p(r,r,B.Fb,r,r,new A.a_z(a),r,r,r),r),B.cV,s.wo(a,"Accueil"),s.wo(a,"Scan"),s.wo(a,"Wishlist"),s.wo(a,"Contact")],t.p),B.En),B.aE,!0))},
 x7(a,b){var s=null,r=A.asR(s,s,s,s,s,s,s,s,s,B.l,s,s,s,s,s,s,s,s,s)
@@ -85045,11 +85045,11 @@ $0(){A.iJ(this.a,!1).Aj(null)
 return null},
 $S:0}
 A.Jp.prototype={
-L(a){var s=this,r=null,q="A PROPOS DE OH MY TAG !",p="\xc0 propos de nous",o="Gestion de mon abonnement",n="manageSubscription.dart",m="LE SERVICE OH MY TAG !",l="Comment \xe7a marche ?",k="Rechercher une wishlist",j="assets/images/logo_insta_white.png",i="https://instagram.com",h=t.s,g=t.p
-return A.by(a,r,t.w).w.a.a<800?A.cW(r,A.cx(A.b([A.cW(r,r,B.r,r,B.AL,150,r,r,r),B.bX,s.p_(q),A.ap9(A.b([p,"F.A.Q","Nous contacter",o],h),A.b(["about.dart","faq.dart","contactUs.dart",n],h)),B.bX,s.p_(m),A.ap9(A.b([l,"Cr\xe9er une wishlist",k],h),A.b(["privacy.dart","terms.dart","support.dart"],h)),B.bX,s.p_("SUIVEZ-NOUS SUR\nNOS RESEAUX SOCIAUX !"),A.ey(A.b([A.aA0(j,i,a)],g),B.M,B.x,B.C),B.bh,s.L7()],g),B.M,B.x,B.C),B.r,B.aY,r,r,r,B.mO,r):A.cW(r,A.ey(A.b([A.ee(A.cW(r,r,B.r,r,B.AN,r,r,B.Eb,r),2),B.eQ,A.ee(A.cx(A.b([s.p_(q),A.ap9(A.b([p,"F.A.Q","Nous contacter",o],h),A.b(["about.dart","faq.dart","contactUs.dart",n],h))],g),B.a7,B.x,B.C),2),B.eQ,A.ee(A.cx(A.b([s.p_(m),A.ap9(A.b([l,"Cr\xe9er une nouvelle wishlist",k],h),A.b(["privacy.dart","terms.dart","support.dart"],h))],g),B.a7,B.x,B.C),2),B.eQ,A.ee(A.cx(A.b([s.p_("SUIVEZ-NOUS SUR NOS RESEAUX SOCIAUX !"),A.ey(A.b([A.aA0(j,i,a)],g),B.M,B.x,B.C),B.bh,s.L7()],g),B.a7,B.x,B.C),2)],g),B.a7,B.x,B.C),B.r,B.aY,r,r,r,B.iX,r)},
+L(a){var s=this,r=null,q="A PROPOS DE OH MY TAG !",p="\xc0 propos de nous",o="Gestion de mon abonnement",n="manageSubscription.dart",m="LE SERVICE OH MY TAG !",l="Comment \xe7a marche ?",k="Rechercher une wishlist",j="images/logo_insta_white.png",i="https://instagram.com",h=t.s,g=t.p
+return A.by(a,r,t.w).w.a.a<800?A.cW(r,A.cx(A.b([A.cW(r,r,B.r,r,B.AK,150,r,r,r),B.bX,s.p_(q),A.ap9(A.b([p,"F.A.Q","Nous contacter",o],h),A.b(["about.dart","faq.dart","contactUs.dart",n],h)),B.bX,s.p_(m),A.ap9(A.b([l,"Cr\xe9er une wishlist",k],h),A.b(["privacy.dart","terms.dart","support.dart"],h)),B.bX,s.p_("SUIVEZ-NOUS SUR\nNOS RESEAUX SOCIAUX !"),A.ey(A.b([A.aA0(j,i,a)],g),B.M,B.x,B.C),B.bh,s.L7()],g),B.M,B.x,B.C),B.r,B.aY,r,r,r,B.mO,r):A.cW(r,A.ey(A.b([A.ee(A.cW(r,r,B.r,r,B.AM,r,r,B.Eb,r),2),B.eQ,A.ee(A.cx(A.b([s.p_(q),A.ap9(A.b([p,"F.A.Q","Nous contacter",o],h),A.b(["about.dart","faq.dart","contactUs.dart",n],h))],g),B.a7,B.x,B.C),2),B.eQ,A.ee(A.cx(A.b([s.p_(m),A.ap9(A.b([l,"Cr\xe9er une nouvelle wishlist",k],h),A.b(["privacy.dart","terms.dart","support.dart"],h))],g),B.a7,B.x,B.C),2),B.eQ,A.ee(A.cx(A.b([s.p_("SUIVEZ-NOUS SUR NOS RESEAUX SOCIAUX !"),A.ey(A.b([A.aA0(j,i,a)],g),B.M,B.x,B.C),B.bh,s.L7()],g),B.a7,B.x,B.C),2)],g),B.a7,B.x,B.C),B.r,B.aY,r,r,r,B.iX,r)},
 p_(a){var s=null
 return A.cx(A.b([A.c7(a,s,s,s,B.zc,s,s),B.OF,A.cW(s,s,B.r,B.k,s,2,s,s,240),B.ck],t.p),B.a7,B.x,B.C)},
-L7(){return A.ey(A.b([A.aA1("assets/images/download_AppStore.png","https://www.apple.com/app-store/"),B.kp,A.aA1("assets/images/download_GooglePlay.png","https://play.google.com/store/apps")],t.p),B.M,B.cd,B.C)}}
+L7(){return A.ey(A.b([A.aA1("images/download_AppStore.png","https://www.apple.com/app-store/"),B.kp,A.aA1("images/download_GooglePlay.png","https://play.google.com/store/apps")],t.p),B.M,B.cd,B.C)}}
 A.apa.prototype={
 $0(){},
 $S:0}
@@ -87634,26 +87634,26 @@ B.ly=new A.a7(0,1/0,0,1/0)
 B.AJ=new A.a7(280,1/0,0,1/0)
 B.lz=new A.a7(36,1/0,36,1/0)
 B.ie=new A.a7(1/0,1/0,1/0,1/0)
+B.A1=new A.jh("images/logo_ohMyTag_footer.png",null,null)
+B.lA=new A.wJ(1,"contain")
+B.bS=new A.rX(3,"noRepeat")
+B.bz=new A.oJ(2,"medium")
+B.Dq=new A.m9(B.A1,B.lA)
+B.an=new A.Hs(0,"rectangle")
+B.AK=new A.cV(null,B.Dq,null,null,null,null,B.an)
 B.k=new A.E(1,1,1,1,B.h)
 B.iv=new A.E(0.12156862745098039,0,0,0,B.h)
 B.tU=new A.j(0,4)
 B.AR=new A.dG(0,B.dT,B.iv,B.tU,8)
 B.HQ=A.b(s([B.AR]),t.sq)
-B.an=new A.Hs(0,"rectangle")
-B.AK=new A.cV(B.k,null,null,null,B.HQ,null,B.an)
-B.A1=new A.jh("assets/images/logo_ohMyTag_footer.png",null,null)
-B.lA=new A.wJ(1,"contain")
-B.bS=new A.rX(3,"noRepeat")
-B.bz=new A.oJ(2,"medium")
-B.Dq=new A.m9(B.A1,B.lA)
-B.AL=new A.cV(null,B.Dq,null,null,null,null,B.an)
+B.AL=new A.cV(B.k,null,null,null,B.HQ,null,B.an)
+B.A0=new A.jh("images/logo_ohMyTag_white.png",null,null)
+B.Dr=new A.m9(B.A0,B.lA)
+B.AM=new A.cV(null,B.Dr,null,null,null,null,B.an)
 B.CL=new A.E(0.23529411764705882,0,0,0,B.h)
 B.AS=new A.dG(0.5,B.dT,B.CL,B.tU,10)
 B.Hk=A.b(s([B.AS]),t.sq)
-B.AM=new A.cV(null,null,null,B.lv,B.Hk,null,B.an)
-B.A0=new A.jh("assets/images/logo_ohMyTag_white.png",null,null)
-B.Dr=new A.m9(B.A0,B.lA)
-B.AN=new A.cV(null,B.Dr,null,null,null,null,B.an)
+B.AN=new A.cV(null,null,null,B.lv,B.Hk,null,B.an)
 B.bo=new A.wJ(2,"cover")
 B.lB=new A.wJ(6,"scaleDown")
 B.dU=new A.wK(0,"tight")
