@@ -81061,12 +81061,12 @@ return A.ap5(B.is,A.zp(!0,A.Le(A.cx(A.b([new A.IG(new A.a1U(this),s),B.iZ],t.p),
 Mw(a,b,c){var s=null,r=A.a_w(s,s,a,s,s,s,0,s,s,s,s,s,B.CG,s,new A.c5(A.e8(10),B.q),s,s,s,s)
 return A.aof(!1,A.cs(b,s,s,s,A.dD(s,s,c,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,s,s,s,new A.a1T(),s,r)},
 a1c(){var s=null,r=A.b([u.X,"\u201cOh My Tag a chang\xe9 ma fa\xe7on de faire du shopping ! Je peux enfin retrouver les pi\xe8ces vues en boutique que j\u2019adore, les enregistrer et les comparer plus tard. L\u2019app est super fluide et les rappels quand un produit revient en stock sont ultra utiles. J\u2019adore l\u2019id\xe9e du dressing intelligent.\u201d\n Chloe.C","\u201cSimple, rapide, efficace.\u201d\n Clara"],t.s),q=A.atz(0.7),p=t.p
-return A.cI(s,A.cx(A.b([B.Ry,B.cS,A.e1(A.jT(A.kG(B.V,A.b([A.atC(q,new A.a1Q(r),3),A.rE(s,A.eN(s,A.cI(s,B.Dx,B.r,s,new A.cH(B.k,s,s,s,s,s,B.eW),40,s,s,40),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a1R(q),s,s,s,s,s,s),s,s,0,s,s,s),A.rE(s,A.eN(s,A.cI(s,B.Dy,B.r,s,new A.cH(B.k,s,s,s,s,s,B.eW),40,s,s,40),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a1S(q),s,s,s,s,s,s),s,s,s,0,s,s)],p),B.Q,B.bR),s,s),220,1/0)],p),B.M,B.cJ,B.B),B.r,B.l,s,s,s,B.iG,s)},
+return A.cI(s,A.cx(A.b([B.Rx,B.cS,A.e1(A.jT(A.kG(B.V,A.b([A.atC(q,new A.a1Q(r),3),A.rE(s,A.eN(s,A.cI(s,B.Dx,B.r,s,new A.cH(B.k,s,s,s,s,s,B.eW),40,s,s,40),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a1R(q),s,s,s,s,s,s),s,s,0,s,s,s),A.rE(s,A.eN(s,A.cI(s,B.Dy,B.r,s,new A.cH(B.k,s,s,s,s,s,B.eW),40,s,s,40),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a1S(q),s,s,s,s,s,s),s,s,s,0,s,s)],p),B.Q,B.bR),s,s),220,1/0)],p),B.M,B.cJ,B.B),B.r,B.l,s,s,s,B.iG,s)},
 a13(){var s=null,r=A.b([u.X,"\u201cEnfin une app qui comprend mes go\xfbts.\u201d\n Sam","\u201cSimple, rapide, efficace.\u201d\n Clara"],t.s)
 return A.cI(s,A.cx(A.b([B.RQ,B.bQ,A.e1(A.atC(A.atz(0.85),new A.a1P(r),3),220,s)],t.p),B.M,B.z,B.B),B.r,B.l,s,s,s,B.m8,s)}}
 A.a1U.prototype={
 $2(a,b){var s=null,r="CaviarDreams",q="images/main.png",p="images/promo.png",o="Suivez vos marques pr\xe9f\xe9r\xe9es et restez au courant des derni\xe8res tendances mode.",n="Scannez, taguez et organisez vos v\xeatements, cr\xe9ez vos tenues, pr\xe9parez vos achats et construisez votre style de mani\xe8re simple et intuitive.",m="Explorer les tendances",l="images/inspiration1.png",k="images/inspiration3.png",j=this.a,i=t.p
-return b.b<800?A.Le(A.cx(A.b([new A.c1(B.CN,A.cx(A.b([A.cs("Oh My Tag !",s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,50,s,s,B.aC,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cR,A.cs("Votre application shopping et dressing\nintelligent",s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cR,A.cs("Donnez une suite \xe0 vos envies !",s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cS,A.cs("Explorez vos marques pr\xe9f\xe9r\xe9es, organisez vos\nv\xeatements\net retrouvez vos coups de coeur.",s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.bQ,A.e1(A.kG(B.c0,A.b([A.rE(s,A.cI(s,s,B.r,s,new A.cH(B.aW,s,s,A.e8(20),s,s,B.ak),170,s,s,600),s,s,200,s,0,s),A.cI(s,s,B.r,s,new A.cH(s,A.ao0(new A.iP(q,s,s)),s,A.e8(20),s,s,B.ak),s,s,s,s)],i),B.Q,B.bR),170,s)],i),B.a6,B.z,B.B),s),B.cS,A.cI(s,A.cx(A.b([B.RJ,B.bd,B.RG,B.bQ,new A.da(B.hV,s,s,A.cI(s,A.i5(p,B.bw,s,s),B.r,s,new A.cH(s,s,s,B.zh,s,s,B.ak),s,s,s,1/0),s),B.cS,new A.da(B.cp,s,s,A.cs("Promotions en temps r\xe9el",s,s,s,A.dD(s,s,B.k,s,s,s,s,s,r,s,s,20,s,s,B.aC,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),B.cf,new A.da(B.cp,s,s,A.cs(u._,s,s,s,A.dD(s,s,B.k,s,s,s,s,s,r,s,s,15,s,s,s,s,1.4,!0,s,s,s,s,s,s,s,s),s,s),s)],i),B.a6,B.z,B.B),B.r,B.l,s,s,s,B.CQ,s),B.xS,new A.c1(B.m7,A.cx(A.b([B.Rx,B.bd,A.cs(o,s,s,s,B.yf,s,s),B.bd,A.cs(n,s,s,s,B.yf,s,s),B.bd,j.Mw(B.aW,m,B.k),B.bQ,A.eh(A.b([A.en(A.cI(s,A.Mn(4.7124,A.i5(l,B.bw,s,s)),B.r,s,s,180,s,s,s),1),B.k3,A.en(A.cI(s,A.Mn(1.5708,A.i5(l,B.bw,s,s)),B.r,s,s,180,s,s,s),1)],i),B.M,B.z,B.B)],i),B.M,B.z,B.B),s),B.bQ,j.a13()],i),B.M,B.z,B.B)):A.Le(A.cx(A.b([new A.c1(B.CM,A.eh(A.b([A.en(A.cx(B.F7,B.a6,B.z,B.B),3),B.k3,A.en(A.kG(B.c0,A.b([A.rE(s,A.cI(s,s,B.r,s,new A.cH(B.aW,s,s,A.e8(20),s,s,B.ak),210,s,s,600),s,s,500,s,0,s),A.cI(s,s,B.r,s,new A.cH(s,A.ao0(new A.iP(q,s,s)),s,A.e8(20),s,s,B.ak),220,s,s,1000)],i),B.Q,B.bR),4)],i),B.M,B.z,B.B),s),B.M7,A.cI(s,A.cx(A.b([B.RR,B.cf,B.RC,B.cS,A.eh(A.b([A.en(A.cx(B.Fj,B.a6,B.z,B.B),3),B.k3,A.en(A.cI(s,s,B.r,s,new A.cH(s,A.ao0(new A.iP(p,s,s)),s,A.e8(40),s,s,B.ak),300,s,s,600),4)],i),B.a6,B.z,B.B)],i),B.M,B.cJ,B.B),B.r,B.l,s,s,s,B.iG,s),A.cI(B.d2,A.eh(A.b([A.en(A.cx(A.b([A.i5(l,B.bw,s,s),B.bd,A.i5("images/inspiration2.png",B.bw,s,s)],i),B.a6,B.z,B.cK),1),B.eH,A.en(A.cx(A.b([A.i5(k,B.bw,s,s),B.cR,A.i5("images/inspiration4.png",B.bw,s,s),B.cR,A.Mn(3.1416,A.i5(k,B.bw,s,s))],i),B.a6,B.z,B.cK),1),B.eH,A.en(A.cI(B.V,A.cx(A.b([A.cs("Trouvez l'inspiration",s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,50,s,s,B.aC,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cS,A.cs(o,s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.bd,A.cs(n,s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.xS,new A.da(B.cp,s,s,j.Mw(B.aW,m,B.k),s)],i),B.M,B.cJ,B.B),B.r,s,s,s,s,B.CA,s),2)],i),B.M,B.z,B.B),B.r,s,s,s,s,B.CL,s),j.a1c()],i),B.a6,B.z,B.B))},
+return b.b<800?A.Le(A.cx(A.b([new A.c1(B.CN,A.cx(A.b([A.cs("Oh My Tag !",s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,50,s,s,B.aC,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cR,A.cs("Votre application shopping et dressing\nintelligent",s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cR,A.cs("Donnez une suite \xe0 vos envies !",s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cS,A.cs("Explorez vos marques pr\xe9f\xe9r\xe9es, organisez vos\nv\xeatements\net retrouvez vos coups de coeur.",s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,15,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.bQ,A.e1(A.kG(B.c0,A.b([A.rE(s,A.cI(s,s,B.r,s,new A.cH(B.aW,s,s,A.e8(20),s,s,B.ak),170,s,s,600),s,s,200,s,0,s),A.cI(s,s,B.r,s,new A.cH(s,A.ao0(new A.iP(q,s,s)),s,A.e8(20),s,s,B.ak),s,s,s,s)],i),B.Q,B.bR),170,s)],i),B.a6,B.z,B.B),s),B.cS,A.cI(s,A.cx(A.b([B.RI,B.bd,B.RF,B.bQ,new A.da(B.hV,s,s,A.cI(s,A.i5(p,B.bw,s,s),B.r,s,new A.cH(s,s,s,B.zh,s,s,B.ak),s,s,s,1/0),s),B.cS,new A.da(B.cp,s,s,A.cs("Promotions en temps r\xe9el",s,s,s,A.dD(s,s,B.k,s,s,s,s,s,r,s,s,20,s,s,B.aC,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),B.cf,new A.da(B.cp,s,s,A.cs(u._,s,s,s,A.dD(s,s,B.k,s,s,s,s,s,r,s,s,15,s,s,s,s,1.4,!0,s,s,s,s,s,s,s,s),s,s),s)],i),B.a6,B.z,B.B),B.r,B.l,s,s,s,B.CQ,s),B.xS,new A.c1(B.m7,A.cx(A.b([B.Rw,B.bd,A.cs(o,s,s,s,B.yf,s,s),B.bd,A.cs(n,s,s,s,B.yf,s,s),B.bd,j.Mw(B.aW,m,B.k),B.bQ,A.eh(A.b([A.en(A.cI(s,A.Mn(4.7124,A.i5(l,B.bw,s,s)),B.r,s,s,180,s,s,s),1),B.k3,A.en(A.cI(s,A.Mn(1.5708,A.i5(l,B.bw,s,s)),B.r,s,s,180,s,s,s),1)],i),B.M,B.z,B.B)],i),B.M,B.z,B.B),s),B.bQ,j.a13()],i),B.M,B.z,B.B)):A.Le(A.cx(A.b([new A.c1(B.CM,A.eh(A.b([A.en(A.cx(B.F7,B.a6,B.z,B.B),3),B.k3,A.en(A.kG(B.c0,A.b([A.rE(s,A.cI(s,s,B.r,s,new A.cH(B.aW,s,s,A.e8(20),s,s,B.ak),210,s,s,600),s,s,500,s,0,s),A.cI(s,s,B.r,s,new A.cH(s,A.ao0(new A.iP(q,s,s)),s,A.e8(20),s,s,B.ak),220,s,s,1000)],i),B.Q,B.bR),4)],i),B.M,B.z,B.B),s),B.M7,A.cI(s,A.cx(A.b([B.RR,B.cf,B.RB,B.cS,A.eh(A.b([A.en(A.cx(B.Fj,B.a6,B.z,B.B),3),B.k3,A.en(A.cI(s,s,B.r,s,new A.cH(s,A.ao0(new A.iP(p,s,s)),s,A.e8(40),s,s,B.ak),300,s,s,600),4)],i),B.a6,B.z,B.B)],i),B.M,B.cJ,B.B),B.r,B.l,s,s,s,B.iG,s),A.cI(B.d2,A.eh(A.b([A.en(A.cx(A.b([A.i5(l,B.bw,s,s),B.bd,A.i5("images/inspiration2.png",B.bw,s,s)],i),B.a6,B.z,B.cK),1),B.eH,A.en(A.cx(A.b([A.i5(k,B.bw,s,s),B.cR,A.i5("images/inspiration4.png",B.bw,s,s),B.cR,A.Mn(3.1416,A.i5(k,B.bw,s,s))],i),B.a6,B.z,B.cK),1),B.eH,A.en(A.cI(B.V,A.cx(A.b([A.cs("Trouvez l'inspiration",s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,50,s,s,B.aC,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.cS,A.cs(o,s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.bd,A.cs(n,s,s,s,A.dD(s,s,B.l,s,s,s,s,s,r,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.xS,new A.da(B.cp,s,s,j.Mw(B.aW,m,B.k),s)],i),B.M,B.cJ,B.B),B.r,s,s,s,s,B.CA,s),2)],i),B.M,B.z,B.B),B.r,s,s,s,s,B.CL,s),j.a1c()],i),B.a6,B.z,B.B))},
 $S:491}
 A.a1T.prototype={
 $0(){},
@@ -81091,9 +81091,9 @@ return new A.c1(B.CT,A.aro(A.jT(new A.c1(B.iH,A.cs(this.a[b],s,s,s,B.yd,B.bg,s),
 $S:151}
 A.ri.prototype={
 M(a){var s=null,r=t.p
-return A.ap5(B.is,A.Le(A.cx(A.b([A.cI(s,A.cx(A.b([B.RE,B.cR,B.RB],r),B.M,B.z,B.B),B.r,B.aW,s,s,s,B.m5,1/0),this.a12(a),B.iZ],r),B.a6,B.z,B.B)),s)},
+return A.ap5(B.is,A.Le(A.cx(A.b([A.cI(s,A.cx(A.b([B.RD,B.cR,B.RA],r),B.M,B.z,B.B),B.r,B.aW,s,s,s,B.m5,1/0),this.a12(a),B.iZ],r),B.a6,B.z,B.B)),s)},
 a12(a){var s=null
-return new A.c1(B.m9,A.cx(A.b([B.RS,B.bd,this.a1d("Adresse e-mail"),B.bd,this.JP("Mot de passe",!0),B.k4,A.e1(A.aof(!1,B.RI,s,s,s,s,s,s,new A.a3n(),s,A.a_w(s,s,B.aW,s,s,s,s,s,s,s,s,s,B.m4,s,new A.c5(A.e8(8),B.q),s,s,s,s)),s,1/0),B.cf,A.jT(A.M4(B.RA,new A.a3o(a),s),s,s)],t.p),B.a6,B.z,B.B),s)},
+return new A.c1(B.m9,A.cx(A.b([B.RS,B.bd,this.a1d("Adresse e-mail"),B.bd,this.JP("Mot de passe",!0),B.k4,A.e1(A.aof(!1,B.RH,s,s,s,s,s,s,new A.a3n(),s,A.a_w(s,s,B.aW,s,s,s,s,s,s,s,s,s,B.m4,s,new A.c5(A.e8(8),B.q),s,s,s,s)),s,1/0),B.cf,A.jT(A.M4(B.Rz,new A.a3o(a),s),s,s)],t.p),B.a6,B.z,B.B),s)},
 JP(a,b){var s=null
 return A.auC(s,A.aoI(s,new A.hs(4,A.e8(8),B.q),s,s,s,s,s,s,!0,s,s,s,s,s,s,B.lL,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,a,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),b)},
 a1d(a){return this.JP(a,!1)}}
@@ -81113,16 +81113,16 @@ return new A.CS(new A.jw(B.dA,s),new A.jw(B.dA,s),new A.jw(B.dA,s),new A.jw(B.dA
 A.CS.prototype={
 wl(){var s=0,r=A.T(t.H),q=this,p,o,n,m
 var $async$wl=A.U(function(a,b){if(a===1)return A.Q(b,r)
-while(true)switch(s){case 0:p=A.ix("https://ton-backend.com/api/signup")
+while(true)switch(s){case 0:p=A.ix("https://mydigitalproject-production.up.railway.app/api/auth/signup")
 o=t.N
 n=A.ar(["Content-Type","application/json"],o,o)
 s=2
-return A.W(A.aLn(p,B.cv.S9(A.ar(["gender",q.d,"firstName",q.f.a.a,"lastName",q.e.a.a,"email",q.r.a.a,"password",q.w.a.a],o,t.ob),null),n),$async$wl)
+return A.W(A.aLn(p,B.cv.S9(A.ar(["genre",q.d,"name",q.e.a.a,"firstname",q.f.a.a,"email",q.r.a.a,"password",q.w.a.a,"role","user","termsAccepted",!0],o,t.X),null),n),$async$wl)
 case 2:m=b
 p=m.b
 o=t.Pu
 n=q.c
-if(p===200){n.al(o).f.Ih(B.Mk)
+if(p===201){n.al(o).f.Ih(B.Mk)
 p=q.c
 p.toString
 o=A.a61(new A.aj3(),null,t.z)
@@ -81133,13 +81133,13 @@ n.TB(0,A.iK()).afl(0,null,!0)
 n.a.push(o)
 n.am()
 p.vE()
-p.B1()}else n.al(o).f.Ih(A.aut(null,null,null,null,null,B.Q,null,A.cs("Erreur : "+A.n(J.br(B.cv.RI(0,A.aKy(A.aIl(m.e).c.a.h(0,"charset")).fj(0,m.w),null),"message")),null,null,null,null,null,null),null,B.m1,null,null,null,null,null,null,null,null,null))
+p.B1()}else n.al(o).f.Ih(A.aut(null,null,null,null,null,B.Q,null,A.cs("Error : "+A.n(J.br(B.cv.RI(0,A.aKy(A.aIl(m.e).c.a.h(0,"charset")).fj(0,m.w),null),"error")),null,null,null,null,null,null),null,B.m1,null,null,null,null,null,null,null,null,null))
 return A.R(null,r)}})
 return A.S($async$wl,r)},
 M(a){var s=null
 return A.ap5(B.is,A.Le(A.cx(A.b([A.cI(s,A.cx(B.G3,B.M,B.z,B.B),B.r,B.aW,s,s,s,B.m5,1/0),this.a1a(a),B.iZ],t.p),B.a6,B.z,B.B)),s)},
 a1a(a){var s=this,r=null,q=t.p
-return new A.c1(B.m9,A.cx(A.b([B.AG,B.bQ,A.eh(A.b([B.RO,B.k2,s.B_("H","H"),B.k2,s.B_("F","F"),B.k2,s.B_("Autre","Autre")],q),B.M,B.cJ,B.B),B.k4,A.eh(A.b([A.en(s.CI(s.e,"Nom"),1),B.k1,A.en(s.CI(s.f,"Pr\xe9nom"),1)],q),B.M,B.z,B.B),B.cf,s.CI(s.r,"Adresse e-mail"),B.cf,s.NN(s.w,"Mot de passe (8 caract\xe8res minimum)",!0),B.k4,A.e1(A.aof(!1,B.Rz,r,r,r,r,r,r,s.gaaE(),r,A.a_w(r,r,B.aW,r,r,r,r,r,r,r,r,r,B.CB,r,new A.c5(A.e8(8),B.q),r,r,r,r)),r,1/0),B.cf,A.jT(A.M4(A.a9t(r,r,r,B.ch,r,r,!0,r,B.Nb,B.aS,r,r,B.ac,B.aE),new A.aj2(a),r),r,r)],q),B.a6,B.z,B.B),r)},
+return new A.c1(B.m9,A.cx(A.b([B.AG,B.bQ,A.eh(A.b([B.RO,B.k2,s.B_("H","Homme"),B.k2,s.B_("F","Femme"),B.k2,s.B_("Autre","Autre")],q),B.M,B.cJ,B.B),B.k4,A.eh(A.b([A.en(s.CI(s.e,"Nom"),1),B.k1,A.en(s.CI(s.f,"Pr\xe9nom"),1)],q),B.M,B.z,B.B),B.cf,s.CI(s.r,"Adresse e-mail"),B.cf,s.NN(s.w,"Mot de passe (8 caract\xe8res minimum)",!0),B.k4,A.e1(A.aof(!1,B.Ry,r,r,r,r,r,r,s.gaaE(),r,A.a_w(r,r,B.aW,r,r,r,r,r,r,r,r,r,B.CB,r,new A.c5(A.e8(8),B.q),r,r,r,r)),r,1/0),B.cf,A.jT(A.M4(A.a9t(r,r,r,B.ch,r,r,!0,r,B.Nb,B.aS,r,r,B.ac,B.aE),new A.aj2(a),r),r,r)],q),B.a6,B.z,B.B),r)},
 B_(a,b){var s=null
 return A.eh(A.b([new A.rI(b,this.d,new A.aj0(this),B.aW,s,t.KS),A.cs(a,s,s,s,s,s,s)],t.p),B.M,B.z,B.cK)},
 NN(a,b,c){var s=null
@@ -83953,8 +83953,8 @@ B.AB=new A.Gi(1,"viewport")
 B.AF=new A.qm(null,null,null,null,null,null,null)
 B.aC=new A.hj(6)
 B.Or=new A.k(!0,null,null,"CaviarDreams",null,null,24,B.aC,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RH=new A.cm("Cr\xe9er un compte",null,B.Or,null,null,null,null,null,null)
-B.AG=new A.lp(B.V,null,null,B.RH,null)
+B.RG=new A.cm("Cr\xe9er un compte",null,B.Or,null,null,null,null,null,null)
+B.AG=new A.lp(B.V,null,null,B.RG,null)
 B.AH=new A.vO(null,null,null,null,null,null,null,null,null)
 B.AI=new A.vP(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.lg=new A.dz(0,B.q)
@@ -84488,15 +84488,15 @@ B.k7=new A.kH(5,"end")
 B.F4=A.b(s([B.cT,B.k6,B.bg,B.hu,B.aS,B.k7]),A.aw("z<kH>"))
 B.F6=A.b(s([B.i_,B.i0]),A.aw("z<vu>"))
 B.yo=new A.k(!0,B.l,null,"CaviarDreams",null,null,50,B.aC,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RF=new A.cm("Oh My Tag",null,B.yo,null,null,null,null,null,null)
+B.RE=new A.cm("Oh My Tag",null,B.yo,null,null,null,null,null,null)
 B.bd=new A.dp(null,20,null,null)
 B.OI=new A.k(!0,B.l,null,"CaviarDreams",null,null,25,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RM=new A.cm("Votre application shopping\net dressing intelligente",null,B.OI,null,null,null,null,null,null)
 B.yl=new A.k(!0,B.l,null,"CaviarDreams",null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RL=new A.cm("Donnez une suite \xe0 vos envies !",null,B.yl,null,null,null,null,null,null)
 B.cS=new A.dp(null,40,null,null)
-B.Rw=new A.cm("Explorez vos marques pr\xe9f\xe9r\xe9es, organisez vos v\xeatements\net retrouvez vos coups de coeur.",null,B.yl,null,null,null,null,null,null)
-B.F7=A.b(s([B.RF,B.bd,B.RM,B.bd,B.RL,B.cS,B.Rw]),t.p)
+B.Rv=new A.cm("Explorez vos marques pr\xe9f\xe9r\xe9es, organisez vos v\xeatements\net retrouvez vos coups de coeur.",null,B.yl,null,null,null,null,null,null)
+B.F7=A.b(s([B.RE,B.bd,B.RM,B.bd,B.RL,B.cS,B.Rv]),t.p)
 B.aq=new A.e4(0,"icon")
 B.aB=new A.e4(1,"input")
 B.a4=new A.e4(2,"label")
@@ -84524,11 +84524,11 @@ B.ls=new A.D(0.09803921568627451,0,0,0,B.h)
 B.zx=new A.dx(0.2,B.zb,B.ls,B.f,11)
 B.Fi=A.b(s([B.zx]),t.sq)
 B.OF=new A.k(!0,B.k,null,"CaviarDreams",null,null,50,B.aC,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RD=new A.cm("Promotions en temps r\xe9el",null,B.OF,null,null,null,null,null,null)
+B.RC=new A.cm("Promotions en temps r\xe9el",null,B.OF,null,null,null,null,null,null)
 B.cf=new A.dp(null,15,null,null)
 B.yi=new A.k(!0,B.k,null,"CaviarDreams",null,null,18,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RP=new A.cm(u._,null,B.yi,null,null,null,null,null,null)
-B.Fj=A.b(s([B.RD,B.cf,B.RP]),t.p)
+B.Fj=A.b(s([B.RC,B.cf,B.RP]),t.p)
 B.MA=new A.Ad(0,"left")
 B.MB=new A.Ad(1,"right")
 B.Fk=A.b(s([B.MA,B.MB]),A.aw("z<Ad>"))
@@ -84611,8 +84611,8 @@ B.ye=new A.k(!0,B.k,null,null,null,null,28,B.aC,null,1.5,null,null,null,null,nul
 B.RN=new A.cm("BIENVENUE !",null,B.ye,null,null,null,null,null,null)
 B.cR=new A.dp(null,10,null,null)
 B.yg=new A.k(!0,B.L,null,"CaviarDreams",null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RK=new A.cm("Merci d\u2019avoir choisi\nOh My Tag !",null,B.yg,B.bg,null,null,null,null,null)
-B.G3=A.b(s([B.RN,B.cR,B.RK]),t.p)
+B.RJ=new A.cm("Merci d\u2019avoir choisi\nOh My Tag !",null,B.yg,B.bg,null,null,null,null,null)
+B.G3=A.b(s([B.RN,B.cR,B.RJ]),t.p)
 B.m=new A.xV(0,"ignored")
 B.aD=new A.h(4294967304)
 B.ef=new A.h(4294967323)
@@ -85876,8 +85876,8 @@ B.Mi=new A.jr(3,"hide")
 B.V2=new A.jr(4,"remove")
 B.xU=new A.jr(5,"timeout")
 B.Mj=new A.tc(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rv=new A.cm("Inscription r\xe9ussie",null,null,null,null,null,null,null,null)
-B.Mk=new A.pq(B.Rv,null,null,null,null,null,null,null,null,null,null,null,null,B.m1,null,null,null,B.Q,null)
+B.RK=new A.cm("Inscription succeeded !",null,null,null,null,null,null,null,null)
+B.Mk=new A.pq(B.RK,null,null,null,null,null,null,null,null,null,null,null,null,B.m1,null,null,null,B.Q,null)
 B.xV=new A.A0(0,"permissive")
 B.Ml=new A.A0(1,"normal")
 B.Mm=new A.A0(2,"forced")
@@ -86242,19 +86242,19 @@ B.Ql=new A.k(!0,B.K,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.QD=new A.k(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Nx=new A.k(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.Ru=new A.dr(B.Pi,B.Og,B.Pj,B.PU,B.NT,B.O_,B.OC,B.PH,B.OS,B.Qp,B.Nn,B.NI,B.Ql,B.QD,B.Nx)
-B.Rx=new A.cm("Trouvez l'inspiration",null,B.yo,B.bg,null,null,null,null,null)
+B.Rw=new A.cm("Trouvez l'inspiration",null,B.yo,B.bg,null,null,null,null,null)
 B.ym=new A.k(!0,B.k,null,"CaviarDreams",null,null,80,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ry=new A.cm("Ils en parlent mieux que nous",null,B.ym,B.bg,null,null,null,null,null)
+B.Rx=new A.cm("Ils en parlent mieux que nous",null,B.ym,B.bg,null,null,null,null,null)
 B.yn=new A.k(!0,B.k,null,null,null,null,16,B.aC,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rz=new A.cm("Finaliser mon inscription",null,B.yn,null,null,null,null,null,null)
-B.RA=new A.cm("Vous n'avez pas encore de compte? Inscrivez-vous !",null,B.yh,B.bg,null,null,null,null,null)
-B.RB=new A.cm("\xc0 vos envies",null,B.yg,null,null,null,null,null,null)
-B.RC=new A.cm("Explorez des collections exclusives, suivez vos marques pr\xe9f\xe9r\xe9es, restez au courant des derni\xe8res tendances mode.",null,B.yi,B.bg,null,null,null,null,null)
-B.RE=new A.cm("RECONNEXION",null,B.ye,null,null,null,null,null,null)
+B.Ry=new A.cm("Finaliser mon inscription",null,B.yn,null,null,null,null,null,null)
+B.Rz=new A.cm("Vous n'avez pas encore de compte? Inscrivez-vous !",null,B.yh,B.bg,null,null,null,null,null)
+B.RA=new A.cm("\xc0 vos envies",null,B.yg,null,null,null,null,null,null)
+B.RB=new A.cm("Explorez des collections exclusives, suivez vos marques pr\xe9f\xe9r\xe9es, restez au courant des derni\xe8res tendances mode.",null,B.yi,B.bg,null,null,null,null,null)
+B.RD=new A.cm("RECONNEXION",null,B.ye,null,null,null,null,null,null)
 B.Oq=new A.k(!0,B.k,null,"CaviarDreams",null,null,15,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RG=new A.cm("Explorez des collections exclusives et suivez vos marques pr\xe9f\xe9r\xe9es, restez au courant des derni\xe8res tendances mode.",null,B.Oq,B.cT,null,null,null,null,null)
-B.RI=new A.cm("Se connecter \xe0 mon espace",null,B.yn,null,null,null,null,null,null)
-B.RJ=new A.cm(u.f,null,B.yj,B.cT,null,null,null,null,null)
+B.RF=new A.cm("Explorez des collections exclusives et suivez vos marques pr\xe9f\xe9r\xe9es, restez au courant des derni\xe8res tendances mode.",null,B.Oq,B.cT,null,null,null,null,null)
+B.RH=new A.cm("Se connecter \xe0 mon espace",null,B.yn,null,null,null,null,null,null)
+B.RI=new A.cm(u.f,null,B.yj,B.cT,null,null,null,null,null)
 B.Pm=new A.k(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.RO=new A.cm("Sexe :",null,B.Pm,null,null,null,null,null,null)
 B.Od=new A.k(!0,B.k,null,"CaviarDreams",null,null,40,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
