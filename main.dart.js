@@ -84155,7 +84155,7 @@ if(l==null){s=1
 break}m.ae(new A.ahv(m))
 p=4
 s=7
-return A.P(A.aBd(A.fM("https://mydigitalproject-production.up.railway.app/products/"+A.l(l))),$async$wW)
+return A.P(A.aBd(A.fM("https://mydigitalproject-production.up.railway.app/api/products/"+A.l(l))),$async$wW)
 case 7:k=c
 if(k.b===200){h=k
 j=B.b3.n3(0,A.Xu(A.Xh(h.e).c.a.h(0,"charset")).dU(0,h.w),null)
@@ -84379,7 +84379,7 @@ if(J.cA(g)===0){s=1
 break}m.ae(new A.ale(m))
 p=4
 s=7
-return A.P(A.aBd(A.fM("https://mydigitalproject-production.up.railway.app/products/code/"+A.l(g))),$async$re)
+return A.P(A.aBd(A.fM("https://mydigitalproject-production.up.railway.app/api/products/code/"+A.l(g))),$async$re)
 case 7:l=b
 if(l.b===200){i=l
 k=B.b3.n3(0,A.Xu(A.Xh(i.e).c.a.h(0,"charset")).dU(0,i.w),null)
